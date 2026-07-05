@@ -1,4 +1,4 @@
 This is the source code of the paper: A Hierarchical Framework integrating MPC and Deep Reinforcement Learning for Real-time Control of Off-Road Autonomous Vehicles. In stage-1, a kinematic-based MPC is formulated as the nominal controller to optimize a sparse sequence of control commands while strictly adhering to physical constraints. In stage-2, a DRL-based compensator is designed to implicitly learn unmodeled dynamics and varying terrain roughness, dynamically outputting residual control actions to correct the nominal commands.
 <p align="center">
-  <img src="https://github.com/HITXCI/xy_hpp/blob/master/gifs/scenerio1.gif" width="30%">
+  <img src="https://github.com/hdiuqh/fusion-control/blob/main/Fig.png">
 </p>
