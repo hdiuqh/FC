@@ -2,3 +2,7 @@ This is the source code of the paper: A Hierarchical Framework integrating MPC a
 <p align="center">
   <img src="https://github.com/hdiuqh/fusion-control/blob/main/Fig.png">
 </p>
+
+# Environment requirements
+1. Ubuntu 20.04
+2. pytorch, CARLA, Project-Chrono
